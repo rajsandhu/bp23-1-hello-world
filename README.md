@@ -1,5 +1,5 @@
-# 2023-blog-project
-a webdev demo project with a simple shape: blog
+# 2023-blog-project, step 1: Hello World
+showing the steps of a webdev demo project with a simple ultimate shape: blog
 ---
 Since you can't fork your own repos directly on github, here's how this fork was created, generally speaking:
 
